@@ -104,3 +104,7 @@
 
 - Migrated package to null safety
 - use dart stable version >= 2.12.0
+
+## 2.1.0
+
+- Upgraded font_awesome_flutter to v10
